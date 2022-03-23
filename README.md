@@ -1,4 +1,4 @@
-### Olá
+### Olá 👋
 
 Sou Lucas Novaes, desenvolvedor de software, entusiasta de café e aprecio aprender sobre novas tecnologias. O intuito desse perfil é manter e guardar códigos de projetos pessoais e quem sabe contribuir em um projeto open-source.
 
