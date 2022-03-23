@@ -14,7 +14,7 @@ I'm Lucas Novaes, software developer, coffee enthusiast and I enjoy learning abo
 - 🔭 Currently I'm working at the Court of Auditors of the Municipalities of the State of Bahia on projects developed in Java and Vue.js with SQL Server.
 - 🌱 Currently I'm studying about front-end libraries and frameworks (JS/TS).
 
-I'm Lucas Novaes, computer scientist and tech enthusiast.
+----------------------
 
 - 📫 How to reach me/Como me encontrar nas rede sociais:
 
