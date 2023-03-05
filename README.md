@@ -3,7 +3,7 @@
 Sou Lucas Novaes, desenvolvedor de software, entusiasta de café e aprecio aprender sobre novas tecnologias. O intuito desse perfil é manter e guardar códigos de projetos pessoais e quem sabe contribuir em um projeto open-source.
 
 - 🔭 Atualmente estou trabalhando no Tribunal de Contas dos Municípios do Estado da Bahia em projetos desenvolvidos em Java e Vue.js com SQL Server.
-- 🌱 Atualmente estou estudando sobre as bibliotecas e frameworks de front-end (JS/TS)
+- 🌱 Atualmente estou estudando sobre as bibliotecas e frameworks de front-end (JS/TS) e Spring Boot.
 
 ----------------------
 
@@ -12,7 +12,7 @@ Sou Lucas Novaes, desenvolvedor de software, entusiasta de café e aprecio apren
 I'm Lucas Novaes, software developer, coffee enthusiast and I enjoy learning about new technologies. The purpose of this profile is to maintain and save codes from personal projects and who knows how to contribute to an open-source project.
 
 - 🔭 Currently I'm working at the Court of Auditors of the Municipalities of the State of Bahia on projects developed in Java and Vue.js with SQL Server.
-- 🌱 Currently I'm studying about front-end libraries and frameworks (JS/TS).
+- 🌱 Currently I'm studying about front-end libraries and frameworks (JS/TS) and Spring Boot.
 
 ----------------------
 
